@@ -12,7 +12,7 @@ Besides grid, the course covers the usage of SVG icons, BEM methodology, respons
 ![App Screenshot](https://raw.githubusercontent.com/Irozaih/nexter/master/img/readme/desktop-screens.png)
 
 
-## Demo
+## Link
 
 https://nexter-grid-aleks.netlify.app/
 
